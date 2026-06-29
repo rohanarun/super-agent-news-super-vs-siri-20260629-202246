@@ -1,0 +1,30 @@
+{
+  "citations": [
+    "[forbes.com](https://www.forbes.com/)",
+    "[tomsguide.com](https://www.tomsguide.com/)",
+    "[phonearena.com](https://www.phonearena.com/)",
+    "[blog.google](https://blog.google/)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/)",
+    "[bwbusinessworld.com](https://www.bwbusinessworld.com/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/)"
+  ],
+  "design_plan": "rng=42; hero_math=1120px max-width, 2-3 lines; AIDA_passed; bento_density=grid-auto-flow:dense; label_sweep=all competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-06-29T20:22:53.824649+00:00",
+  "headline": "Super vs Siri: Two Very Different Ideas of a Personal AI Agent",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "Siri is Apple\u2019s deeply integrated assistant for devices and daily life. Super is built for people who want a personal AI agent that can operate computers directly and reuse a computer-use cache for repeated workflows. This page compares where each excels, using recent reporting as evidence, and explains why Super is the sharper alternative for hands-on computer work."
+}
